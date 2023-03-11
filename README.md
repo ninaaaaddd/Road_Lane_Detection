@@ -8,5 +8,3 @@ Here's what you should have installed on your local system:
   - Numpy 1.16 
   - OpenCV 4
 
-## Building the Algorithm
-Refer to my Medium Article for This (link will be posted shortly)
